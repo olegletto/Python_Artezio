@@ -1,0 +1,6 @@
+d1 = dict([(1, 1), (2, 4)])
+d2 = dict([(3, 5), (6, 1)])
+print(d1)
+print(d2)
+d1.update(d2)
+print(d1)
